@@ -10,7 +10,7 @@ int binarySerach(vector<int> &arr,int key){
     int mid=(low+high)/2;
 
     if (arr[mid]==key)
-    {
+    { 
         return mid;
     }
     else if(arr[mid]<key)
