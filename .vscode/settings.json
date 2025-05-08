@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.dbclient-js": "javascript",
         "array": "cpp",
         "atomic": "cpp",
         "*.tcc": "cpp",
@@ -41,6 +42,9 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "list": "cpp"
-    }
+        "list": "cpp",
+        "chrono": "cpp",
+        "span": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
